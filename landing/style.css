@@ -1,0 +1,60 @@
+body{
+  background: rgb(232,164,74);
+  color: green;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+h1{
+  font-family: ComicsSans;
+  color: green;
+  font-weight: bold;
+  font-size: 50px;
+
+}
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: bold;
+  font-size: 20px;
+}
+a {
+  color: yellow;
+  text-decoration: none;
+
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1548919973-5cef591cdbc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.section{
+  padding: 50px;
+  font-weight: lighter;
+}
+#Giuliana{
+  border-radius: 50%;
+}
